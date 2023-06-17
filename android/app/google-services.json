@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "934855003053",
+    "project_id": "flutterapp-274cc",
+    "storage_bucket": "flutterapp-274cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934855003053:android:446c537b4cecb2e4962f24",
+        "android_client_info": {
+          "package_name": "cl.earayad.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934855003053-5tqikcq2lq6mnf8aj6e9bvm4rmqs28g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0Hg6W_f5H_nnYVU2SxlX-vHCr8zX0jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934855003053-5tqikcq2lq6mnf8aj6e9bvm4rmqs28g3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934855003053-19ma73rvoiuq7finfnpga4vgdak6ipns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashboardApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934855003053:android:c25283a69b16c917962f24",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934855003053-5tqikcq2lq6mnf8aj6e9bvm4rmqs28g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0Hg6W_f5H_nnYVU2SxlX-vHCr8zX0jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934855003053-5tqikcq2lq6mnf8aj6e9bvm4rmqs28g3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934855003053-19ma73rvoiuq7finfnpga4vgdak6ipns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashboardApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934855003053:android:67c72bb68bfe1bc1962f24",
+        "android_client_info": {
+          "package_name": "com.example.dashboard_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934855003053-5tqikcq2lq6mnf8aj6e9bvm4rmqs28g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0Hg6W_f5H_nnYVU2SxlX-vHCr8zX0jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934855003053-5tqikcq2lq6mnf8aj6e9bvm4rmqs28g3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934855003053-19ma73rvoiuq7finfnpga4vgdak6ipns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashboardApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
